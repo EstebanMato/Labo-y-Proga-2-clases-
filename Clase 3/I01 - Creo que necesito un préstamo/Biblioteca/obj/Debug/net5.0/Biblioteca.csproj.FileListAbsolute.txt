@@ -1,0 +1,12 @@
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.csprojAssemblyReference.cache
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+G:\Mi unidad\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase3\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb

@@ -39,7 +39,11 @@ namespace Biblioteca
             
         public static bool operator ==(Producto p1, Producto p2)
         {
-            return p1.codigoDeBarra == p2.codigoDeBarra && p1.GetMarca() == p2.GetMarca();
+            if(!(p1 is null || p2 is null))
+            {
+                return p1.codigoDeBarra == p2.codigoDeBarra && p1.GetMarca() == p2.GetMarca();
+            }
+            return false;
         }
 
         public static bool operator !=(Producto p1, Producto p2)

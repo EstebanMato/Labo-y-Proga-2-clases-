@@ -27,9 +27,67 @@ namespace Biblioteca
             return this.producto;
         }
 
-        public string MostrarEstante(Estante e)
+        public static bool operator == (Estante e, Producto p)
         {
+            for (int i = 0; i < e.producto.Length; i++)
+            {
+                if(e.producto[i] == p)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        public static bool operator !=(Estante e, Producto p)
+        {
+            return !(e == p);
+        }
 
+        public static bool operator +(Estante e, Producto p)
+        {
+            if(e != p)
+            {
+                for (int i = 0; i < e.producto.Length; i++)
+                {
+                    if (e.producto[i] is null)
+                    {
+                        e.producto[i] = p;
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        public static Estante operator -(Estante e, Producto p)
+        {
+            if(e == p)
+            {
+                for (int i = 0; i < e.producto.Length; i++)
+                {
+                    if(e.producto[i] == p)
+                    {
+                        e.producto[i] = null;
+                        break;
+                    }
+
+                }
+            }
+            return e;
+        }
+        public static string MostrarEstante(Estante e)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Ubicacion {e.ubicacionEstante}");
+
+            for (int i = 0; i < e.producto.Length; i++)
+            {
+                if (!(e.producto[i] is null))
+                {
+                    sb.AppendLine(Producto.MostrarProducto(e.producto[i]);
+                }
+            }
+            return sb.ToString();
         }
 
     }

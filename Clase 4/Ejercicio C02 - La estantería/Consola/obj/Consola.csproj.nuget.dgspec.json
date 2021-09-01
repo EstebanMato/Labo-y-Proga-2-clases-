@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esteban\\Desktop\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj": {}
+    "C:\\UTN\\Laboratorio y programacion 2\\Recursada\\Labo-y-Proga-2-clases-\\Clase 4\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esteban\\Desktop\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj": {
+    "C:\\UTN\\Laboratorio y programacion 2\\Recursada\\Labo-y-Proga-2-clases-\\Clase 4\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esteban\\Desktop\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\UTN\\Laboratorio y programacion 2\\Recursada\\Labo-y-Proga-2-clases-\\Clase 4\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\Esteban\\Desktop\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj",
+        "projectPath": "C:\\UTN\\Laboratorio y programacion 2\\Recursada\\Labo-y-Proga-2-clases-\\Clase 4\\Ejercicio C02 - La estantería\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\Esteban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esteban\\Desktop\\Ejercicio C02 - La estantería\\Consola\\obj\\",
+        "outputPath": "C:\\UTN\\Laboratorio y programacion 2\\Recursada\\Labo-y-Proga-2-clases-\\Clase 4\\Ejercicio C02 - La estantería\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Esteban\\AppData\\Roaming\\NuGet\\NuGet.Config",

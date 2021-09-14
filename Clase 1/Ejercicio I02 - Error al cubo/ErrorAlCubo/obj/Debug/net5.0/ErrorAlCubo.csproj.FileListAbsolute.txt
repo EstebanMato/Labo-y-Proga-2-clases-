@@ -1,0 +1,16 @@
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.exe
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.deps.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.runtimeconfig.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.runtimeconfig.dev.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ref\ErrorAlCubo.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.csprojAssemblyReference.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.AssemblyInfoInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.AssemblyInfo.cs
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.csproj.CoreCompileInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ref\ErrorAlCubo.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I02 - Error al cubo\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.genruntimeconfig.cache

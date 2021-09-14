@@ -1,0 +1,16 @@
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\MáximoMínimoPromedio.exe
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\MáximoMínimoPromedio.deps.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\MáximoMínimoPromedio.runtimeconfig.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\MáximoMínimoPromedio.runtimeconfig.dev.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\MáximoMínimoPromedio.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\ref\MáximoMínimoPromedio.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\bin\Debug\net5.0\MáximoMínimoPromedio.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.csprojAssemblyReference.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.AssemblyInfoInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.AssemblyInfo.cs
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.csproj.CoreCompileInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\ref\MáximoMínimoPromedio.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I01 - Máximo, mínimo y promedio\Máximo, mínimo y promedio\obj\Debug\net5.0\MáximoMínimoPromedio.genruntimeconfig.cache

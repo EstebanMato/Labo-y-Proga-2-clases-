@@ -1,0 +1,16 @@
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\LosPrimos.exe
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\LosPrimos.deps.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\LosPrimos.runtimeconfig.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\LosPrimos.runtimeconfig.dev.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\LosPrimos.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\ref\LosPrimos.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\bin\Debug\net5.0\LosPrimos.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.csprojAssemblyReference.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.AssemblyInfoInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.AssemblyInfo.cs
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.csproj.CoreCompileInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\ref\LosPrimos.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 1\Ejercicio I03 - Los primos\LosPrimos\obj\Debug\net5.0\LosPrimos.genruntimeconfig.cache

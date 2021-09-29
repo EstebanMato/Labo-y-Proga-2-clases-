@@ -1,0 +1,12 @@
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\bin\Debug\net5.0\AtrapameException.deps.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\bin\Debug\net5.0\AtrapameException.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\bin\Debug\net5.0\ref\AtrapameException.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\bin\Debug\net5.0\AtrapameException.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.csprojAssemblyReference.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.AssemblyInfoInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.AssemblyInfo.cs
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.csproj.CoreCompileInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\ref\AtrapameException.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 10\Ejercicio I02 - Atrapame si puedes\Ejercicio I02  Atrapame si puedes\Biblioteca\obj\Debug\net5.0\AtrapameException.pdb

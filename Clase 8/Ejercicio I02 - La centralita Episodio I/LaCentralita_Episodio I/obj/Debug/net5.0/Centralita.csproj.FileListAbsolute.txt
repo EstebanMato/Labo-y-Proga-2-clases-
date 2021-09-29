@@ -1,0 +1,12 @@
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\bin\Debug\net5.0\Centralita.deps.json
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\bin\Debug\net5.0\Centralita.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\bin\Debug\net5.0\ref\Centralita.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\bin\Debug\net5.0\Centralita.pdb
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.csprojAssemblyReference.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\ref\Centralita.dll
+C:\UTN\Laboratorio y programacion 2\Recursada\Labo-y-Proga-2-clases-\Clase 8\Ejercicio I02 - La centralita Episodio I\LaCentralita_Episodio I\obj\Debug\net5.0\Centralita.pdb
